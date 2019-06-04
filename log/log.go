@@ -9,7 +9,7 @@ import (
 	"github.com/mattn/go-colorable"
 	"github.com/mattn/go-isatty"
 
-	"github.com/labstack/gommon/color"
+	"github.com/kyani-inc/gommon/color"
 )
 
 type (
